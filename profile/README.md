@@ -1,4 +1,4 @@
-![Profile Banner Image](profile/assets/WWS_Logo.png)
+![Profile Banner Image](assets/WWS_Logo.png)
 
 [Woolsey Workshop](https://www.woolseyworkshop.com) provides tutorials and learning material on a range of electronics and software topics,
 especially those of interest to the open source maker community and educational institutions.
