@@ -10,7 +10,6 @@ The resources created and used within the tutorials are uploaded and made availa
 Please consider sponsoring [:heart: Woolsey Workshop](https://github.com/sponsors/WoolseyWorkshop) so that we may continue providing these free
 resources to our valued readers.
 
-You can also find us on on [Twitter](https://twitter.com/WoolseyWorkshop), [Facebook](https://www.facebook.com/WoolseyWorkshop/),
-and [Pinterest](https://www.pinterest.com/woolseyworkshop/).
+You can also find us on on [Twitter](https://twitter.com/WoolseyWorkshop) and [Pinterest](https://www.pinterest.com/woolseyworkshop/).
 
 ![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,py)
